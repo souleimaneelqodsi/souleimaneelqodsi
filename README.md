@@ -4,7 +4,7 @@
   <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjJnNjhmMDZmMGhlMXd0YjNmMHc0YTNyd3ZqcTN2dXBicnZhYmVmaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ua7vVw9awZKWwLSYpW/giphy.gif" alt="GIF stylé">
 </p>
 
-- 🔭 I’m currently working on [Eventura](https://github.com/souleimaneelqodsi/eventura) and [VirtualChair](https://github.com/souleimaneelqodsi/virtualchair)
+- 🔭 I’m currently working on [Eventura](https://github.com/souleimaneelqodsi/eventura), [VirtualChair](https://github.com/souleimaneelqodsi/virtualchair) and [Recipe Manager](https://github.com/souleimaneelqodsi/recipes)
 - 🌱 I’m currently learning Flutter and web dev.
 - 💬 Ask me about a mobile app you'd like to build using Flutter, I can help with that!
   
@@ -24,6 +24,7 @@ I'm passionate about **software engineering** and **programming**, with a strong
 - **Eventura** : A cross-platform mobile app for event planning (Flutter, Supabase).
 - **Furfeux** : A maze-based video game (Java, Java Swing).
 - **VirtualChair** : A web platform for organizing scientific conferences (Flask, Python, UML).
+- **Recipes** : A platform where people can easily post, comment and translate cooking recipes (Vanilla JS, HTML/CSS, PHP)
 
 ---
 
