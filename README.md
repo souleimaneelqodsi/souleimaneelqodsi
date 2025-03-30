@@ -6,10 +6,9 @@
 
 - 🔭 I’m currently working on [Eventura](https://github.com/souleimaneelqodsi/eventura), [VirtualChair](https://github.com/souleimaneelqodsi/virtualchair) and [Recipe Manager](https://github.com/souleimaneelqodsi/recipes)
 - 🌱 I’m currently learning Flutter and web dev.
-- 💬 Ask me about a mobile app you'd like to build using Flutter, I can help with that!
   
 ### 🎓 Computer Science Student at Paris-Saclay University
-I'm passionate about **software engineering** and **programming**, with a strong interest in **mobile app development** (Flutter). I enjoy building cross-platform applications and exploring new technologies to solve real-world problems.
+I'm passionate about **software engineering** and **programming**. I enjoy building cross-platform applications and exploring new technologies to solve real-world problems.
 
 ---
 
