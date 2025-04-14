@@ -21,9 +21,9 @@ I'm passionate about **software engineering** and **programming**. I enjoy build
 ### 🚀 Projects
 
 - **Eventura** : A cross-platform mobile app for event planning (Flutter, Supabase).
-- **Furfeux** : A maze-based video game (Java, Java Swing).
+- **Furfeux** : A maze-based video game (Java, Java Swing/AWT).
 - **VirtualChair** : A web platform for organizing scientific conferences (Flask, Python, UML).
-- **Recipes** : A platform where people can easily post, comment and translate cooking recipes (Vanilla JS, HTML/CSS, PHP)
+- **Recipes** : A platform where users can easily post, comment and translate cooking recipes (Vanilla JS, HTML/CSS, PHP)
 
 ---
 
