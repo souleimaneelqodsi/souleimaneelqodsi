@@ -4,7 +4,7 @@
   <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjJnNjhmMDZmMGhlMXd0YjNmMHc0YTNyd3ZqcTN2dXBicnZhYmVmaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ua7vVw9awZKWwLSYpW/giphy.gif" alt="GIF stylé">
 </p>
 
-- 🔭 I’m currently working on [Eventura](https://github.com/souleimaneelqodsi/eventura) and [VirtualChair](https://github.com/souleimaneelqodsi/virtualchair)
+- 🔭 I’m currently working on [Eventura](https://github.com/souleimaneelqodsi/eventura).
 - 🌱 I’m currently learning Flutter and web dev.
   
 ### 🎓 Computer Science Student at Paris-Saclay University
