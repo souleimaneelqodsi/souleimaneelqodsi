@@ -4,11 +4,10 @@
   <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjJnNjhmMDZmMGhlMXd0YjNmMHc0YTNyd3ZqcTN2dXBicnZhYmVmaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ua7vVw9awZKWwLSYpW/giphy.gif" alt="GIF stylé">
 </p>
 
-- 🔭 I’m currently working on [Eventura](https://github.com/souleimaneelqodsi/eventura).
-- 🌱 I’m currently learning Flutter and web dev.
+- 🌱 I’m currently learning modern web dev (MERN stack, Angular, Typescript...).
   
 ### 🎓 Computer Science Student at Paris-Saclay University
-I'm passionate about **software engineering** and **programming**. I enjoy building cross-platform applications and exploring new technologies to solve real-world problems.
+I'm passionate about **software engineering** and **programming**. I enjoy building modern applications and exploring new technologies to solve real-world problems.
 
 ---
 
@@ -24,6 +23,7 @@ I'm passionate about **software engineering** and **programming**. I enjoy build
 - **Furfeux** : A maze-based video game (Java, Java Swing/AWT).
 - **VirtualChair** : A web platform for organizing scientific conferences (Flask, Python, UML).
 - **Recipes** : A platform where users can easily post, comment and translate cooking recipes (Vanilla JS, HTML/CSS, PHP)
+- **Serbian/croatian flags** : A Jupyter (notebook) project implementing the machine learning pipeline from preprocessing to performance measuring: separating pictures containing a serbian flag from pictures containing a croatian flag. 
 
 ---
 
