@@ -19,11 +19,11 @@ I'm passionate about **software engineering** and **programming**. I enjoy build
 
 ### 🚀 Projects
 
+- **NutriMatch** : An AI-powered personalized cooking recipe generation web application, vibe-coded with agentic AI workflow (Antigravity, Next.js, Tailwind CSS, FastAPI, Supabase). 
 - **Eventura** : A cross-platform mobile app for event planning (Flutter, Supabase).
 - **Furfeux** : A maze-based video game (Java, Java Swing/AWT).
 - **VirtualChair** : A web platform for organizing scientific conferences (Flask, Python, UML).
 - **Recipes** : A platform where users can easily post, comment and translate cooking recipes (Vanilla JS, HTML/CSS, PHP)
-- **Serbian/croatian flags** : A Jupyter (notebook) project implementing the machine learning pipeline from preprocessing to performance measuring: separating pictures containing a serbian flag from pictures containing a croatian flag. 
 
 ---
 
